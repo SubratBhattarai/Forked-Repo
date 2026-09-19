@@ -24,4 +24,4 @@ Because the same tests and deployments are ran again and again making human mist
 
 ## What would happen if you pushed code to a different branch (not main)?
 
-The trigger only happens in main as told from 'on:' which means that any changes to other branch will be saved but not be in effect. 
+The trigger only happens in main as told from 'on:' which means that any changes to other branch will be saved but not be in effect. This seem super simple yet still complex.
