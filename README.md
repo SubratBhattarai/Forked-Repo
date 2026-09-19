@@ -4,8 +4,6 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
-This is Subrat Bhattarai working on an assignment. Making more changes to trigger.
-
 
 ## Project Structure
 
