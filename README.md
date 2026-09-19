@@ -2,11 +2,9 @@
 
 [![Deploy to GitHub Pages](https://github.com/SubratBhattarai/Forked-Repo/actions/workflows/deploy.yml/badge.svg)](https://github.com/SubratBhattarai/Forked-Repo/actions/workflows/deploy.yml)
 
-
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 This is Subrat Bhattarai working on an assignment.
-
 
 
 ## Project Structure
