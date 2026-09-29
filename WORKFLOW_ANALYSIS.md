@@ -7,10 +7,10 @@ on:
     branches: [ main ]
 
 ## What are the four main steps this workflow performs?
-1. name: Checkout code
-2. name: Validate HTML
-3. name: Check links
-4. name: Upload artifact
+1. Checkout code
+2. Validate HTML
+3. Check links
+4. Upload artifact
 
 ## What does "Checkout code" do?
 The checkout downloads the repo code into the action environment which is necessary because other workflow steps need the access to it before testing and deploying.
@@ -24,4 +24,8 @@ Because the same tests and deployments are ran again and again making human mist
 
 ## What would happen if you pushed code to a different branch (not main)?
 
-The trigger only happens in main as told from 'on:' which means that any changes to other branch will be saved but not be in effect. 
+The trigger only happens in main as told from 'on:' which means that any changes to other branch will be saved but not be in effect. This seem super simple yet still complex.
+
+
+### The workflow analysis is answers for all the question asked fo the discussion, please review and give me an honest opinion.
+
